@@ -34,10 +34,6 @@ public class Triangulo {
 
         // NFTAB
          System.out.println(Triangulo.classificarTriangulo(2,10,2));
-
-
-
-
     }
 
 }
